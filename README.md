@@ -17,7 +17,7 @@ Available at: [https://open.metu.edu.tr/handle/11511/109445](https://open.metu.e
 
 ### BibTeX
 ```bibtex
-@mastersthesis{deveci2024transformer,
+@mastersthesis{deveci_2024,
   author       = {Deveci, İbrahim Ethem},
   title        = {Transformer models for translating natural language sentences into formal logical expressions},
   school       = {Middle East Technical University},
